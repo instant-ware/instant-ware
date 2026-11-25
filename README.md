@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hey, I'm Sachit 👋
+# Hey, I'm INSTANTWARE  👋
 
 ### `> building things that work.`
 
 <em>✏️ What you built and why it matters.</em>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sachit--portfolio.vercel.app-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin-portfoli.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit1751-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/✉️_Email-sachit1751@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tzsmx.com-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://tzsmx.com)
+[![Telegram](https://img.shields.io/badge/✈️_Telegram-InstantWare__dev-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/InstantWare_dev)
+[![Email](https://img.shields.io/badge/✉️_Email-instantware.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:instantware.dev@gmail.com)
 
 <br/>
 
@@ -91,11 +91,12 @@ const sachit = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://sachit-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tzsmx.com-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://tzsmx.com)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-instant--ware-1a1917?style=for-the-badge&logo=github&logoColor=white)](https://github.com/instant-ware)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit1751-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/✉️_Email-sachit1751@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![Instagram](https://img.shields.io/badge/📷_Instagram-sachit2097-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sachit2097)
+[![Telegram](https://img.shields.io/badge/✈️_Telegram-InstantWare__dev-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/InstantWare_dev)
+[![YouTube](https://img.shields.io/badge/▶_YouTube-INSTANT__WARE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@INSTANT_WARE)
+[![Facebook](https://img.shields.io/badge/📘_Facebook-InstantWare-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19suB9woxL/)
+[![Email](https://img.shields.io/badge/✉️_Email-instantware.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:instantware.dev@gmail.com)
 
 </div>
 
@@ -107,4 +108,4 @@ const sachit = {
 
 </div>
 
-<p align="center"><sub>INSTANTWARE  · <a href="https://www.gitskins.com/readme-generator?template=community-sachit-9ki0">Sachit</a> template by <a href="https://www.gitskins.com/creators/sachit1751-art">@sachit1751-art</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>INSTANTWARE  · <a href="https://tzsmx.com">Official Website</a> · GitHub <a href="https://github.com/instant-ware">instant-ware</a></sub></p>
