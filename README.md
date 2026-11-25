@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Hey, I'm INSTANTWARE  👋
+# 𝐇𝐄𝐋𝐋𝐎 ,𝐈'𝐌 𝐈𝐍𝐒𝐓𝐀𝐍𝐓𝐖𝐀𝐑𝐄  👋
 
 ### `> building things that work.`
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 🎯 Focus Areas
+## 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
 
 ```
 ▸ Web Development       → React, TypeScript, Vite, Next.js
@@ -66,7 +66,7 @@
 ---
 
 <details open>
-<summary><b>📌 Top projects</b></summary>
+<summary><b>𝗧𝗢𝗣 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</b></summary>
 <br/>
 
 <p align="center">
@@ -76,7 +76,7 @@
 - [instant-ware](https://github.com/instant-ware/instant-ware) · ★ 0
 
 ---
-## Uptime in motion
+## 𝗨𝗣𝗧𝗜𝗠𝗘 𝗜𝗡 𝗠𝗢𝗧𝗜𝗢𝗡 
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=instant-ware&theme=github-dark" alt="instant-ware contribution activity" />
@@ -84,7 +84,7 @@
 
 ---
 
-## 📫 Let's Connect
+##𝗟𝗘𝗧'𝗦 𝗖𝗢𝗡𝗡𝗘𝗖𝗧
 
 <div align="center">
 
