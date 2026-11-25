@@ -98,7 +98,7 @@
 
 <div align="center">
 
-<em>Thank you so much for visiting! ❤️</em>
+<b>Thank you so much for visiting! ❤️</b>
 
 </div>
 
