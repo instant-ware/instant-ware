@@ -1,133 +1,104 @@
-<!-- ================================================== -->
-<!--          INSTANT-WARE | MINIMAL PREMIUM PROFILE    -->
-<!-- ================================================== -->
+<div align="center">╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██╗███╗   ██╗███████╗████████╗ █████╗ ███╗   ██╗████████╗  ║
+║   ██║████╗  ██║██╔════╝╚══██╔══╝██╔══██╗████╗  ██║╚══██╔══╝  ║
+║   ██║██╔██╗ ██║███████╗   ██║   ███████║██╔██╗ ██║   ██║     ║
+║   ██║██║╚██╗██║╚════██║   ██║   ██╔══██║██║╚██╗██║   ██║     ║
+║   ██║██║ ╚████║███████║   ██║   ██║  ██║██║ ╚████║   ██║     ║
+║   ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝     ║
+║                                                              ║
+║              INDEPENDENT DIGITAL ENGINEERING                 ║
+║                   BUILD • CREATE • DEPLOY                    ║
+╚══════════════════════════════════════════════════════════════╝
 
-<div align="center">
-  <!-- Dark Minimal Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0d1117&text=INSTANT-WARE&fontSize=50&fontColor=ffffff&fontAlignY=50&desc=CREATIVE%20DEVELOPER&descSize=16&descAlignY=70&descColor=8b949e"/>
-</div>
+"[ SYSTEM ONLINE ]"   "[ INSTANT-WARE / DEVELOPER ]"
 
-<br>
+<img src="https://img.shields.io/badge/01-WEB_DEVELOPMENT-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/02-AUTOMATION-16A34A?style=flat-square" />
+<img src="https://img.shields.io/badge/03-OPEN_SOURCE-EAB308?style=flat-square" />
+<img src="https://img.shields.io/badge/04-EXPERIMENTAL-DC2626?style=flat-square" /></div>---
 
-<!-- ================= ABOUT SECTION ================= -->
-<table align="center" width="100%" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 20px;">
-  <tr>
-    <td width="70%" valign="top">
-      <h3><code>> ABOUT</code></h3>
-      <h2 style="color: #ffffff;">Instant Ware</h2>
-      <p style="color: #c9d1d9; font-size: 14px;">
-        A ship in harbor is safe, but that is not what ships are built for. Working on web, right now.
-      </p>
-      <p style="color: #8b949e; font-size: 12px;">
-        📍 Bangladesh &nbsp;|&nbsp; 🌐 Web Developer &nbsp;|&nbsp; 🐦 @instant-ware
-      </p>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <!-- আপনার গিটহাবের প্রোফাইল পিকচার এখানে বসবে -->
-      <img src="https://github.com/instant-ware.png" width="110" style="border-radius: 10px; border: 1px solid #30363d;" />
-    </td>
-  </tr>
-</table>
+<table>
+<tr>
+<td width="60%" valign="top">"01 / WHO AM I"
 
-<br>
+INSTANT-WARE
 
-<!-- ================= STATS BAR ================= -->
-<table align="center" width="100%" style="background-color: #161b22; border-radius: 10px; border: 1px solid #30363d; text-align: center; padding: 15px;">
-  <tr>
-    <td width="25%">
-      <h2 style="color: #ffffff; margin: 0;">3K</h2>
-      <p style="color: #8b949e; font-size: 12px; margin: 0;">COMMITS</p>
-    </td>
-    <td width="25%">
-      <h2 style="color: #ffffff; margin: 0;">364</h2>
-      <p style="color: #8b949e; font-size: 12px; margin: 0;">PULL REQS</p>
-    </td>
-    <td width="25%">
-      <h2 style="color: #ffffff; margin: 0;">67K</h2>
-      <p style="color: #8b949e; font-size: 12px; margin: 0;">STARS</p>
-    </td>
-    <td width="25%">
-      <h2 style="color: #ffffff; margin: 0;">26D</h2>
-      <p style="color: #8b949e; font-size: 12px; margin: 0;">BEST STREAK</p>
-    </td>
-  </tr>
-</table>
+Developer • Digital Builder • Technology Explorer
 
-<br>
+I build digital products, web applications, automation systems and practical tools.
 
-<!-- ================= PROJECTS SECTION ================= -->
-<h3 align="left"><code>> PROJECTS -------------------------------------------------------</code></h3>
+- "FOCUS" — Web & Application Development
+- "INTEREST" — AI Tools & Automation
+- "APPROACH" — Build. Test. Improve.
+- "LOCATION" — Bangladesh 🇧🇩
 
-<!-- Project Card 1 & 2 -->
-<table align="center" width="100%" style="border-spacing: 10px;">
-  <tr>
-    <td width="50%" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 15px;">
-      <h4 style="color: #ffffff; margin-top: 0;">📦 Project One</h4>
-      <p style="color: #8b949e; font-size: 13px;">Next generation testing framework powered by Vite.</p>
-      <p>
-        <img src="https://img.shields.io/badge/⭐_17K-0d1117?style=flat-square&color=0d1117" />
-        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=blue" />
-      </p>
-    </td>
-    <td width="50%" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 15px;">
-      <h4 style="color: #ffffff; margin-top: 0;">📦 Project Two</h4>
-      <p style="color: #8b949e; font-size: 13px;">Presentation slides for developers.</p>
-      <p>
-        <img src="https://img.shields.io/badge/⭐_5K-0d1117?style=flat-square&color=0d1117" />
-        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=blue" />
-      </p>
-    </td>
-  </tr>
-</table>
+Current objective: Turning practical ideas into useful digital products.
 
-<!-- Project Card 3 & 4 -->
-<table align="center" width="100%" style="border-spacing: 10px;">
-  <tr>
-    <td width="50%" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 15px;">
-      <h4 style="color: #ffffff; margin-top: 0;">📦 Project Three</h4>
-      <p style="color: #8b949e; font-size: 13px;">The instant on-demand atomic CSS engine.</p>
-      <p>
-        <img src="https://img.shields.io/badge/⭐_13K-0d1117?style=flat-square&color=0d1117" />
-        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=blue" />
-      </p>
-    </td>
-    <td width="50%" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 15px;">
-      <h4 style="color: #ffffff; margin-top: 0;">📦 Project Four</h4>
-      <p style="color: #8b949e; font-size: 13px;">Unified New Development Experience.</p>
-      <p>
-        <img src="https://img.shields.io/badge/⭐_3.3K-0d1117?style=flat-square&color=0d1117" />
-        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=blue" />
-      </p>
-    </td>
-  </tr>
-</table>
+</td>
+<td width="40%" align="center" valign="middle"><img src="https://github.com/instant-ware.png" width="155" alt="INSTANT-WARE profile"/>INSTANT-WARE
 
-<br>
+"DEVELOPER ID / IW-001"
 
-<!-- ================= ACTIVITY SECTION ================= -->
-<h3 align="left"><code>> ACTIVITY -------------------------------------------------------</code></h3>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-16A34A?style=for-the-badge" /></td>
+</tr>
+</table>---
 
-<table align="center" width="100%" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 15px;">
-  <tr>
-    <td width="60%" align="center">
-      <!-- গিটহাব কন্ট্রিবিউশন গ্রাফ -->
-      <img width="100%" src="https://ghchart.rshah.org/238636/instant-ware" alt="Contribution Graph" />
-    </td>
-    <td width="40%" valign="middle" style="padding-left: 20px;">
-      <p style="color: #8b949e; font-size: 12px; margin: 0;">CURRENT STREAK</p>
-      <h4 style="color: #ffffff; margin: 0 0 10px 0;">1 day</h4>
-      
-      <p style="color: #8b949e; font-size: 12px; margin: 0;">BEST STREAK</p>
-      <h4 style="color: #ffffff; margin: 0 0 10px 0;">26 days</h4>
-      
-      <p style="color: #8b949e; font-size: 12px; margin: 0;">THIS YEAR</p>
-      <h4 style="color: #ffffff; margin: 0;">3,964</h4>
-    </td>
-  </tr>
-</table>
+"02 / DEVELOPMENT STACK"
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">LANGUAGES
 
-<div align="center">
-  <p style="color: #8b949e; font-size: 12px;">Pixel Studio - made with GitSkins by INSTANT-WARE</p>
+<img src="https://skillicons.dev/icons?i=php,python,js,ts,html,css" /></td>
+<td width="50%" valign="top">TOOLS & ENVIRONMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,vue" /></td>
+</tr>
+</table>---
+
+"03 / GITHUB ANALYTICS"
+
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=instant-ware&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=22C55E&text_color=E5E7EB&ring_color=EAB308" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=instant-ware&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB" /></div><div align="center"><img width="85%" src="https://streak-stats.demolab.com?user=instant-ware&hide_border=true&background=0D1117&ring=3B82F6&fire=DC2626&currStreakLabel=22C55E&sideLabels=E5E7EB&dates=9CA3AF" /></div>---
+
+"04 / CONTRIBUTION MATRIX"
+
+<div align="center"><img src="https://ghchart.rshah.org/22c55e/instant-ware" width="100%" alt="Contribution chart" /></div>---
+
+"05 / PROJECT ARCHIVE"
+
+SELECTED WORK / OPEN SOURCE
+
+DIRECTORY| DESCRIPTION
+"REPOSITORIES"| Browse all development projects
+"EXPERIMENTS"| Explore experimental builds
+"OPEN SOURCE"| Discover public source code
+
+<div align="center"><a href="https://github.com/instant-ware?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a><a href="https://github.com/instant-ware?tab=stars">
+<img src="https://img.shields.io/badge/STARRED_PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=yellow" />
+</a></div>---
+
+"06 / WORKFLOW"
+
+01  IDEA        ━━━━━━━━━━━━━━━━━━━━  DEFINE
+02  DESIGN      ━━━━━━━━━━━━━━━━━━━━  PLAN
+03  DEVELOPMENT ━━━━━━━━━━━━━━━━━━━━  BUILD
+04  TESTING     ━━━━━━━━━━━━━━━━━━━━  VERIFY
+05  DEPLOYMENT  ━━━━━━━━━━━━━━━━━━━━  RELEASE
+
+---
+
+"07 / ESTABLISH CONNECTION"
+
+<div align="center"><a href="https://github.com/instant-ware">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://t.me/INSTANT_WARE">
+<img src="https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>INSTANT-WARE
+
+"ENGINEERED WITH CURIOSITY. BUILT WITH CODE."
+
 </div>
