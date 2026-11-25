@@ -18,9 +18,6 @@
 
 <br/>
 
-<em>✏️ What you built and why it matters.</em>
-<em>✏️ What you built and why it matters.</em>
-
 </div>
 
 ## 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 
