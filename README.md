@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=instant-ware&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346908941%3Fu%3Ddc2a0ecaa13d1b1ae4da89347fef31da099968ee%26v%3D4" alt="instant-ware hero visual" />
+</p>
+
 <div align="center">
 
 # Hey, I'm INSTANTWARE  👋
@@ -75,15 +79,15 @@ const sachit = {
 
 ---
 
-## 📊 GitHub Stats
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-<div align="center">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=instant-ware&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346908941%3Fu%3Ddc2a0ecaa13d1b1ae4da89347fef31da099968ee%26v%3D4" alt="instant-ware projects visual" />
+</p>
 
-![Sachit's GitHub stats](https://www.gitskins.com/api/section/stats?username=instant-ware&theme=github-dark&mode=dark)
-
-![Top Languages](https://www.gitskins.com/api/section/stack?username=instant-ware&theme=github-dark&mode=dark)
-
-</div>
+- [instant-ware](https://github.com/instant-ware/instant-ware) · ★ 0
 
 ---
 
