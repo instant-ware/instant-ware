@@ -1,3 +1,5 @@
+<div style="background-color: #000000; color: #ffffff;">
+
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=instant-ware&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346908941%3Fu%3Ddc2a0ecaa13d1b1ae4da89347fef31da099968ee%26v%3D4" alt="instant-ware hero visual" />
 </p>
@@ -20,21 +22,6 @@
 <em>✏️ What you built and why it matters.</em>
 
 </div>
-
----
-
-## ⚡ What I Do
-
-```
-const sachit = {
-  role: "✏️ your role",
-  education: "✏️ your education",
-  focus: ✏️ your focus,
-  philosophy: "Learn by building → Ship → Iterate",
-  available: true,
-};
-```
-
 ---
 
 ## 🛠️ Tech Stack
@@ -90,6 +77,13 @@ const sachit = {
 - [instant-ware](https://github.com/instant-ware/instant-ware) · ★ 0
 
 ---
+## Uptime in motion
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=instant-ware&theme=github-dark" alt="instant-ware contribution activity" />
+</p>
+
+---
 
 ## 📫 Let's Connect
 
@@ -113,3 +107,6 @@ const sachit = {
 </div>
 
 <p align="center"><sub>INSTANTWARE  · <a href="https://tzsmx.com">Official Website</a> · GitHub <a href="https://github.com/instant-ware">instant-ware</a></sub></p>
+
+</div>
+
