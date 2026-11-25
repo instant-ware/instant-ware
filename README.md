@@ -22,9 +22,8 @@
 <em>✏️ What you built and why it matters.</em>
 
 </div>
----
 
-## 🛠️ Tech Stack
+## 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 
 
 <div align="center">
 
