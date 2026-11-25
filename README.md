@@ -1,187 +1,101 @@
-
-<!-- ═══════════════════════════════════════════════════
-     INSTANTWARE — PREMIUM DEVELOPER PROFILE
-     GitHub: https://github.com/instant-ware
-═══════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:050816,50:123B72,100:00D4FF&text=INSTANTWARE&fontColor=FFFFFF&fontSize=65&fontAlignY=45&animation=fadeIn&stroke=00D4FF&strokeWidth=1" />
+# Hey, I'm Sachit 👋
+
+### `> building things that work.`
+
+<em>✏️ What you built and why it matters.</em>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sachit--portfolio.vercel.app-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin-portfoli.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit1751-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/✉️_Email-sachit1751@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=FULL+STACK+DEVELOPER;WEB+%26+APPLICATION+DEVELOPER;AI+%26+AUTOMATION+EXPLORER;BUILDING+DIGITAL+EXPERIENCES;WELCOME+TO+MY+DEVELOPER+UNIVERSE" />
-
-<br/>
-
-**`DEVELOPMENT`** &nbsp; ◈ &nbsp; **`INNOVATION`** &nbsp; ◈ &nbsp; **`AUTOMATION`**
-
-<br/>
-
-<a href="https://github.com/instant-ware">
-<img src="https://img.shields.io/badge/GITHUB-INSTANT--WARE-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF"/>
-</a>
-<a href="https://t.me/InstantWare_dev">
-<img src="https://img.shields.io/badge/TELEGRAM-CHANNEL-0D1117?style=for-the-badge&logo=telegram&logoColor=00D4FF"/>
-</a>
-<a href="https://t.me/INSTANT_WARE">
-<img src="https://img.shields.io/badge/CONTACT-INSTANTWARE-0D1117?style=for-the-badge&logo=telegram&logoColor=00D4FF"/>
-</a>
-
-<br/><br/>
+<em>✏️ What you built and why it matters.</em>
+<em>✏️ What you built and why it matters.</em>
 
 </div>
 
 ---
 
-<div align="center">
+## ⚡ What I Do
 
-### ◈ 01 — SYSTEM IDENTITY
-
-</div>
-
-```js
-const developer = {
-    name: "INSTANTWARE",
-    username: "instant-ware",
-    role: "Developer & Digital Solutions",
-    
-    interests: [
-        "Web Development",
-        "Android Applications",
-        "AI Integration",
-        "Automation Systems",
-        "Telegram Bots",
-        "API Development"
-    ],
-
-    philosophy: "Think → Build → Improve → Launch",
-
-    mission: "Turning ideas into digital solutions.",
-
-    status: "Always Learning & Building"
+```
+const sachit = {
+  role: "✏️ your role",
+  education: "✏️ your education",
+  focus: ✏️ your focus,
+  philosophy: "Learn by building → Ship → Iterate",
+  available: true,
 };
 ```
 
-> Building useful digital products, exploring new technologies, and turning creative ideas into real-world solutions.
-
 ---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ◈ 02 — TECHNOLOGY MATRIX
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-*Tools, languages & technologies I work with.*
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 </div>
 
-<table>
-<tr>
-<td width="50%" align="center">
+---
 
-**FRONTEND DEVELOPMENT**
+## 🎯 Focus Areas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" />
-
-</td>
-<td width="50%" align="center">
-
-**BACKEND DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=php,python,nodejs,mysql,mongodb&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-**DEVELOPMENT TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
-
-</td>
-<td width="50%" align="center">
-
-**AI & CREATIVE TOOLS**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,figma,vercel&theme=dark" />
-
-</td>
-</tr>
-</table>
+```
+▸ Web Development       → React, TypeScript, Vite, Next.js
+▸ AI & Agents           → Gemini API, Claude API, MCP, Prompt Engineering
+▸ Systems Architecture  → PostgreSQL, Redis, Go, Distributed Systems
+▸ Android Platform      → AOSP, Custom ROMs, TensorFlow Lite
+▸ Security              → E2EE, Rust, Zero-Knowledge Proofs
+▸ Interactive 3D        → Three.js, WebGL, GSAP Animations
+```
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-### ◈ 03 — CORE SPECIALIZATIONS
+![Sachit's GitHub stats](https://www.gitskins.com/api/section/stats?username=instant-ware&theme=github-dark&mode=dark)
+
+![Top Languages](https://www.gitskins.com/api/section/stack?username=instant-ware&theme=github-dark&mode=dark)
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
-### ⌘ Web Engineering
-
-- Responsive Websites
-- PHP & MySQL Systems
-- Modern UI Development
-- API Integrations
-
-</td>
-<td width="50%">
-
-### ◈ AI & Automation
-
-- AI API Integration
-- Workflow Automation
-- Smart Applications
-- Prompt Engineering
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⌘ Telegram Ecosystem
-
-- Telegram Bots
-- Mini Applications
-- Bot Automation
-- API-Based Systems
-
-</td>
-<td width="50%">
-
-### ◈ Digital Solutions
-
-- SaaS Development
-- Admin Dashboards
-- Payment Integration
-- Custom Web Platforms
-
-</td>
-</tr>
-</table>
-
 ---
+
+## 📫 Let's Connect
 
 <div align="center">
 
-### ◈ 04 — GITHUB ANALYTICS
-
-*Live statistics from my GitHub profile.*
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=instant-ware&show_icons=true&hide_border=true&bg_color=050816&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&ring_color=00D4FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=instant-ware&layout=compact&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=FFFFFF" />
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=instant-ware&theme=transparent&hide_border=true&ring=00D4FF&fire=FF3D71&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=888888" />
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://sachit-portfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-instant--ware-1a1917?style=for-the-badge&logo=github&logoColor=white)](https://github.com/instant-ware)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit1751-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/✉️_Email-sachit1751@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Instagram](https://img.shields.io/badge/📷_Instagram-sachit2097-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sachit2097)
 
 </div>
 
@@ -189,64 +103,8 @@ const developer = {
 
 <div align="center">
 
-### ◈ 05 — CONTRIBUTION TIMELINE
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=instant-ware&bg_color=050816&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true&custom_title=INSTANTWARE%20%7C%20DEVELOPMENT%20ACTIVITY" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/instant-ware/instant-ware/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+<em>✏️ How people can reach you.</em>
 
 </div>
 
----
-
-<div align="center">
-
-### ◈ 06 — FEATURED PROJECTS
-
-*Explore my development universe.*
-
-<br/>
-
-<a href="https://github.com/instant-ware?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-00D4FF?style=for-the-badge&logo=github&logoColor=050816" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/instant-ware?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=instant-ware&repo=instant-ware&theme=transparent&hide_border=true&title_color=00D4FF&text_color=FFFFFF" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ◈ 07 — DEVELOPER CONNECT
-
-**Have an idea? Let's build something meaningful.**
-
-<br/>
-
-<a href="https://github.com/instant-ware">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-<a href="https://t.me/INSTANT_WARE">
-<img src="https://img.shields.io/badge/TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/>
-</a>
-<a href="https://t.me/InstantWare_dev">
-<img src="https://img.shields.io/badge/DEVELOPMENT_CHANNEL-229ED9?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/>
-</a>
-
-<br/><br/>
-
-**BUILD SOMETHING. MAKE IT MATTER.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:123B72,100:050816&height=130&section=footer" />
-
-<sub>© INSTANTWARE — DIGITAL SOLUTIONS & DEVELOPMENT</sub>
-
-</div>
+<p align="center"><sub>INSTANTWARE  · <a href="https://www.gitskins.com/readme-generator?template=community-sachit-9ki0">Sachit</a> template by <a href="https://www.gitskins.com/creators/sachit1751-art">@sachit1751-art</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
