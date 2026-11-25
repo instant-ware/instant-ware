@@ -98,7 +98,7 @@
 
 <div align="center">
 
-<em>✏️ How people can reach you.</em>
+<em>Thank you so much for visiting! ❤️</em>
 
 </div>
 
