@@ -62,15 +62,12 @@
 
 ---
 
-<details open>
-<summary><b>𝗧𝗢𝗣 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</b></summary>
-<br/>
+## 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=instant-ware&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346908941%3Fu%3Ddc2a0ecaa13d1b1ae4da89347fef31da099968ee%26v%3D4" alt="instant-ware projects visual" />
+  <img src="https://www.gitskins.com/api/section/projects?username=instant-ware&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F346908941%3Fu%3Ddc2a0ecaa13d1b1ae4da89347fef31da099968ee%26v%3D4" alt="instant-ware projects visual" />
 </p>
 
-- [instant-ware](https://github.com/instant-ware/instant-ware) · ★ 0
 
 ---
 ## 𝗨𝗣𝗧𝗜𝗠𝗘 𝗜𝗡 𝗠𝗢𝗧𝗜𝗢𝗡 
